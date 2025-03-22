@@ -1,4 +1,4 @@
-# Minutes of Meeting - 2025-03-22
+# Minutes of Meeting
 
 ## Meeting Details
 - **Date:** 2025-03-22

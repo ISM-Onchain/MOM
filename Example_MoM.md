@@ -5,6 +5,7 @@
 - **Time:** 3:00 PM
 - **Venue:** Ideation Room
 - **Agenda:** Discuss project roadmap and delegation of tasks
+- **MoM_By:** Name of the creator of MoM
 
 ## Attendees
 ### Seniors (Conductors of the Meeting)

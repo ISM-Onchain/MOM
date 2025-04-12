@@ -13,7 +13,7 @@ Each MoM should follow the structure outlined below:
    - **Agenda:** Brief summary of the meeting's purpose
 
 ### 2. **Attendees**
-   - **Seniors (Conductors of the Meeting, no need to add sir/ma'am here):**
+   - **Seniors (Conductors of the Meeting):**
      - Name 1
      - Name 2
    - **Juniors (Attendees):**
